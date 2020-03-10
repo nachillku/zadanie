@@ -1,0 +1,17 @@
+{
+    "short_name": "Auto",
+    "name": "Pokaż auto",
+    "description": "Aplikacja PWA do pokazania auta.",
+    "icons": [
+        {
+            "src": "https://image.shutterstock.com/image-vector/car-front-view-icon-on-260nw-1037068495.jpg",
+            "type": "image/png",
+            "sizes": "260x280"
+        }        
+    ],
+    "start_url": "https://nachillku.github.io/zadanie/",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "white"
+}
